@@ -4,7 +4,8 @@
     <modules>
       <module fileurl="file://C:\Projects\i-am-poor-android-milanharsfalvai\I-Am-Poor-Android.iml" filepath="C:\Projects\i-am-poor-android-milanharsfalvai\I-Am-Poor-Android.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
-      <module fileurl="file://$PROJECT_DIR$/i-am-poor-android-milanharsfalvai.iml" filepath="$PROJECT_DIR$/i-am-poor-android-milanharsfalvai.iml" />
+      <module fileurl="file://C:\Projects\i-am-poor2-android-milanharsfalvai\i-am-poor-android-milanharsfalvai.iml" filepath="C:\Projects\i-am-poor2-android-milanharsfalvai\i-am-poor-android-milanharsfalvai.iml" />
+      <module fileurl="file://$PROJECT_DIR$/i-am-poor2-android-milanharsfalvai.iml" filepath="$PROJECT_DIR$/i-am-poor2-android-milanharsfalvai.iml" />
     </modules>
   </component>
 </project>
